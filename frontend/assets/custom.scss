@@ -1,0 +1,8 @@
+$mc-purple: #5755d9; // mailchecker purple
+$blue: $mc-purple;
+$primary: $mc-purple;
+
+// Include Bootstrap and BootstrapVue SCSS files
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
+
